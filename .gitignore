@@ -1,7 +1,0 @@
-# Dependency directory
-node_modules
-
-# Styles compilation output
-/.test/styles
-
-.idea
